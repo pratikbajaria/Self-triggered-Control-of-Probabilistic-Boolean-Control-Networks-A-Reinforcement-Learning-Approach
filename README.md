@@ -1,1 +1,1 @@
-# A_Reinforcement_Learning_Approach_to_Control_of_Probabilistic_Boolean_Networks
+# This repository links to our work submitted under the manuscript name - "Aperiodic Sampled-Data Control of Probabilistic Boolean Networks: A Reinforcement Learning Approach"
